@@ -21,9 +21,9 @@ title = "Paper"
   github = 'nanxiaobei'
   instagram = 'nan.xiaobei'
 
-  avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+  avatar = 'https://cdnv2.ruguoapp.com/FvFzAQe7e7uVs_-hTDDy3P5wz0f8v3.jpg?imageMogr2/auto-orient/heic-exif/1/format/jpeg/thumbnail/!1000x1000r/gravity/Center/crop/!1000x1000a0a0'
+  name = 'Liang'
+  bio = '梁某银的自留地'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
