@@ -9,7 +9,6 @@ enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
-disqusShortname = 'Liang'
 
 # ------------------------------
 theme = "hugo-paper"
@@ -18,7 +17,7 @@ title = "Paper"
 [params]
   color = 'linen'
 
-  twitter = 'nanxiaobei'
+  twitter = 'https://twitter.com/chandlefans'
   github = 'nanxiaobei'
   instagram = 'nan.xiaobei'
 
