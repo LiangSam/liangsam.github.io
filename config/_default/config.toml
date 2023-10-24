@@ -11,3 +11,17 @@ theme = "paper"
   avatar = 'https://file.notion.so/f/f/311bd283-43f1-4991-83d5-74cd0d10c22d/659f6c0a-967d-4aba-ae4e-748ca3ea05c3/%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F.png?id=4a6caf8a-4546-4391-a1ba-745c66bd60ee&table=block&spaceId=311bd283-43f1-4991-83d5-74cd0d10c22d&expirationTimestamp=1698249600000&signature=OVZh5pWPnkqMK5dV5UftFdCNURLB60-Vc5X_rz5KXdY&downloadName=%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F.png'
   name = 'Liang'
   bio = '努力探索'
+
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
