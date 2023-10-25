@@ -1,6 +1,6 @@
 baseURL = "https://liangsam.github.io"
 languageCode = "en"
-title = "梁某银的Blog"
+title = "梁某银的Blogs"
 theme = "paper"
 
 [params]
